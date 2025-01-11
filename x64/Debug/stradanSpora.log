@@ -1,0 +1,9 @@
+﻿  binaryTree.cpp
+  doubleLinkedList.cpp
+  Hash-Table_Collision.cpp
+  HashTable-Last 6 questions.cpp
+  Создание кода...
+C:\Users\zevs0\source\repos\stradanSpora\stradanSpora\HashTable-Last 6 questions.cpp(121,7): error C2011: HashTable: переопределение типа "class"
+      C:\Users\zevs0\source\repos\stradanSpora\stradanSpora\HashTable-Last 6 questions.cpp(21,7):
+       см. объявление "HashTable"
+  
